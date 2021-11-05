@@ -1,5 +1,5 @@
 {
-    "name": "hridoy/laravel-policy-generator",
+    "name": "yahrdy/laravel-policy-generator",
     "description": "This will create policy for each model",
     "type": "library",
     "license": "MIT",
