@@ -1,0 +1,19 @@
+{
+    "name": "yahrdy/laravel-policy-generator",
+    "description": "This will create policy for each model",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hridoy\\LaravelPolicyGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hridoy",
+            "email": "yeasirarafat321@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
