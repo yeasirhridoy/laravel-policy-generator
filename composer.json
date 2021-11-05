@@ -8,6 +8,13 @@
             "Hridoy\\LaravelPolicyGenerator\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Hridoy\\LaravelPolicyGenerator\\LaravelPolicyGeneratorProvider"
+            ]
+        }
+    }
     "authors": [
         {
             "name": "Hridoy",
