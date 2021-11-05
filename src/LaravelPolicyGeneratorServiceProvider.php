@@ -4,7 +4,7 @@ namespace Hridoy\LaravelPolicyGenerator;
 
 use Illuminate\Support\ServiceProvider;
 
-class LaravelPolicyGeneratorProvider extends ServiceProvider
+class LaravelPolicyGeneratorServiceProvider extends ServiceProvider
 {
     public function register()
     {
